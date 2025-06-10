@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0685r4",
-  "description": "https://scrimba.com/the-ai-engineer-path-c02v/~014/s0ungqb4i6/head",
+  "name": "polygone-via-worker",
+  "description": "A Vite project using a worker for polygon operations",
   "scripts": {
     "start": "vite",
     "dev": "vite",
