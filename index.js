@@ -1,3 +1,4 @@
+//Using CloudFlare Workers to fetch stock data and DEEPSEEK/OpenAI API to generate a report
 import { dates } from '/utils/dates'
 
 const tickersArr = []
